@@ -1,0 +1,4 @@
+8301	Colby Carr	85319.35	Interest rate:	0.1%
+6701	Mac McNally	2.88		      Monthly fee: $	9.95
+6702	Sam McNally	388.02		      Monthly fee: $	4.5
+
